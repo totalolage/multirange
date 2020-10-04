@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeaVerou/multirange.git"
+    "url": "git+https://github.com/totalolage/multirange.git"
   },
   "keywords": [
     "polyfill",
@@ -22,7 +22,7 @@
   "author": "Lea Verou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LeaVerou/multirange/issues"
+    "url": "https://github.com/totalolage/multirange/issues"
   },
   "homepage": "https://github.com/LeaVerou/multirange#readme"
 }
