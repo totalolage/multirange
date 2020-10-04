@@ -1,6 +1,6 @@
 {
   "name": "@totalolage/multirange",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A tiny polyfill for HTML5 multi-handle sliders",
   "main": "multirange.js",
   "types": "multirange.d.ts",
